@@ -1,0 +1,19 @@
+--2022-09-20 21:44:55--  https://update.code.visualstudio.com/commit:e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 10.0.0.1
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|10.0.0.1|:443... failed: Connection timed out.
+Retrying.
+
+--2022-09-20 21:47:07--  (try: 2)  https://update.code.visualstudio.com/commit:e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|10.0.0.1|:443... failed: Connection timed out.
+Retrying.
+
+--2022-09-20 21:49:22--  (try: 3)  https://update.code.visualstudio.com/commit:e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|10.0.0.1|:443... failed: Connection timed out.
+Retrying.
+
+--2022-09-20 21:51:36--  (try: 4)  https://update.code.visualstudio.com/commit:e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|10.0.0.1|:443... failed: Connection timed out.
+Retrying.
+
+--2022-09-20 21:53:50--  (try: 5)  https://update.code.visualstudio.com/commit:e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|10.0.0.1|:443... failed: No route to host.
